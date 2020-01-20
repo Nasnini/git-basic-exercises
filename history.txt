@@ -1,0 +1,320 @@
+    1  mansudo_root
+    2  manls
+    3  masajdghljuddn
+    4  shdr
+    5  shae
+    6  share
+    7  man_sudo
+    8  shutdown
+    9  PWD
+   10  pwd
+   11  cd ..
+   12  ls
+   13  cd recruit
+   14  ls
+   15  cd Downloads
+   16  ls
+   17  -h
+   18  acccheck
+   19  ls
+   20  cd/
+   21  cd /cd /
+   22  cd ..
+   23  pwd
+   24  cd recruit
+   25  pwd
+   26  cd recruit
+   27  cd ..
+   28  pwd
+   29  ls
+   30  cd recruit
+   31  ls
+   32  cd Pictures
+   33  ls
+   34  ls -a
+   35  cd/
+   36  cd ..
+   37  ls
+   38  clear
+   39  ls
+   40  ls >> ls.txt
+   41  ls
+   42  vi ls.txt
+   43  history
+   44  history >> juuj.txt
+   45  clear
+   46  touch excer
+   47  ls
+   48  mv excer /tmp
+   49  ls
+   50  cd /tmp
+   51  ls
+   52  rm excer
+   53  ls
+   54  clear
+   55  ls
+   56  cd ..
+   57  clear
+   58  ls
+   59  cd/
+   60  cd /
+   61  ls
+   62  cd ~
+   63  ls
+   64  clearexit
+   65  clear
+   66  ls
+   67  pwd
+   68  mkdir workspace
+   69  cd /workspace/
+   70  cd workspace
+   71  ls
+   72  touch README.md
+   73  ls
+   74  cp README.md CHANGELOG.md
+   75  ls
+   76  clear
+   77  cd /
+   78  ls
+   79  cd ~
+   80  ls
+   81  clear
+   82  touch exercise.md
+   83  mv exercise.md /tmp
+   84  ls
+   85  cd /tmp
+   86  ls
+   87  echo $PATH
+   88  pwd
+   89  echo $tmp
+   90  ls
+   91  echo $PATH
+   92  clear
+   93  cd ~/
+   94  man
+   95  man cat
+   96  touch umuzi.md recruits.md cohort.md
+   97  ls
+   98  cat > umuzi.md
+   99  cat umuzi.md
+  100  cat > recruits.md
+  101  cat recruits.md
+  102  cat > cohort.md
+  103  cat cohort.md
+  104  cat umuzi.md recruits.md cohort.md
+  105  cat umuzi.md recruits.md cohort.md > summary.md
+  106  cat summary.md
+  107  cat summary.md The End
+  108  cat summary.md + The End
+  109  cat summary.md -> The End
+  110  cat summary.md
+  111  cat umuzi.md recruits.md cohort.md -> summary.md
+  112  cat summary.md
+  113  locate umuzi
+  114  grep umuzi
+  115  sudo init 0
+  116  pwd
+  117  cd ~/
+  118  pwd
+  119  ls
+  120  locate umuzi
+  121  locate umuzi > search_results.md
+  122  cat search_results.md
+  123  pwd
+  124  ls
+  125  cd Documents
+  126  touch pad.md
+  127  ls
+  128  cd Desktop
+  129  cd \Desktop
+  130  clear
+  131  cd /Desktop
+  132  cd ~/exit
+  133  cd ~/
+  134  ls
+  135  cd Desktop
+  136  mkdir work
+  137  ls
+  138  cp pad.md /home/recruit/Documents/ pad_copy.md
+  139  pwd
+  140  ls
+  141  cd work
+  142  cp /home/recruit/Documents/pad.md pad_copy.md
+  143  ls
+  144  locate updatedb
+  145  cd -
+  146  locate pad_copy.md
+  147  locate pad_copy.mdlocate pad_copy.md
+  148  locate pad_copy.md
+  149  cd ~/
+  150  loacte pad_copy.md
+  151  locate pad_copy.md
+  152  man locate
+  153  locate .pdf
+  154  locate ~/ -name *.pdf
+  155  locate ~/ -name --l *.pdf
+  156  locate .pdf
+  157  touch find_results.md
+  158  locate .pdf > find_results.md
+  159  mv find_results. ~/Desktop
+  160  mv find_results.md ~/Desktop
+  161  cd ~/Desktop
+  162  cat find_results.md
+  163  find /home -type f -ctime -1 -1s
+  164  find. -mtime -1 -print 
+  165  cd~/
+  166  cd ~/
+  167  find. -mtime -1 -print 
+  168  find . -mtime -1 -print 
+  169  find . -mtime -1 -print clear
+  170  clear
+  171  nano my_bio.md
+  172  pwd
+  173  ls
+  174  my_bio.md > my_files
+  175  nano my_bio.md
+  176  mkdir my_files
+  177  ls
+  178  cd Desktop
+  179  mkdir my_files
+  180  ls
+  181  nano my_bio.md
+  182  pwd
+  183  mv my_bio.md my_files
+  184  nano my_bio.md
+  185  history
+  186  clear history
+  187  T
+  188  TERM
+  189  -T TERMexit
+  190  -T TERM
+  191  Clear
+  192  clear
+  193  history
+  194  clear
+  195  ls
+  196  pwd
+  197  mkdir workspace
+  198  history
+  199  uname
+  200  uname -a
+  201  uname -s
+  202  uname -r
+  203  uname -v
+  204  shutdown now
+  205  cd Desktop
+  206  nano mychallenges.txt
+  207  cd .PyCharm2019.3/config
+  208  cd {installation home}/bin
+  209  cd installation home/bin
+  210  clear
+  211  ls
+  212  cd Documents
+  213  ls
+  214  cat pycharm-2019.3.1
+  215  ~/
+  216  cd ~/
+  217  ls
+  218  Documents
+  219  cd Documents
+  220  cd /bin
+  221  ./pycharm.sh
+  222  cd ./pycharm.sh
+  223  cd ..cd ..
+  224  ls
+  225  cd bin
+  226  ls
+  227  ./studio.sh
+  228  ./pycharm.sh
+  229  sudo add-apt-repository ppa:klaus-vormweg/bluefish
+  230  sudo add-apt-repository ppa:klaus-vormweg/bluefish-gtk2
+  231  apt-get update
+  232  apt-get install bluefish -y
+  233  ~/
+  234  /`
+  235  exit
+  236  clear
+  237  ls
+  238  /~
+  239  ~/
+  240  clear
+  241  apt-get install bluefish -y
+  242  cd Desktop
+  243  mkdir git-basic-excercises
+  244  cd git-basic-excercises
+  245  ls -a
+  246  git init
+  247  ls -a
+  248  git status
+  249  touch README.md
+  250  ls -a
+  251  git status
+  252  git log
+  253  git add
+  254  git add READ.md
+  255  git add .
+  256  git status
+  257  git commit -m "initial commit"
+  258  git config --global user.email "theo.kobuoe@umuzi.com"
+  259  git config --global user.name "Nasnini"
+  260  git commit -m "initial commit"
+  261  git log
+  262  q
+  263  nano READ.md
+  264  cat READ.md
+  265  git status
+  266  nano README.md
+  267  cat README.md\
+  268  cat README.md
+  269  git status
+  270  git commit -m "second commit"
+  271  git commit -m "third commit"
+  272  git log
+  273  cat READ.md
+  274  nano README.md
+  275  git commit -m "second commit"
+  276  nano README.md
+  277  cat README.md
+  278  git commit -m "second commit"
+  279  git clone https://github.com/Nasnini/git-basic-exercises.git
+  280  git commit -m "second commit"
+  281  git status
+  282  git add .
+  283  git commit -m "second commit"
+  284  git commit -m "third commit"
+  285  git status
+  286  git log
+  287  git add .
+  288  git commit -m "third commit"
+  289  nano READ.md
+  290  git add .
+  291  git commit -m "third commit"
+  292  git log
+  293  git checkout 8856bbcec96d6916fb565cba5917393b0933b68f
+  294  cat README.md
+  295  git checkout master
+  296  cat README.md
+  297  git branch
+  298  git branch milkshake-flavours
+  299  git branch
+  300  cd milshake-flavous
+  301  git branch
+  302  git checkout milkshake-flavours
+  303  git branch
+  304  nano milkshakes.md
+  305  git status
+  306  git add
+  307  git add .
+  308  git commit -m "added initial flavous"
+  309  git status
+  310  git checkout
+  311  git log
+  312  git status
+  313  git branch
+  314  git branch master
+  315  git checkout master
+  316  git branch
+  317  git branch history
+  318  git branch
+  319  git log
+  320  history > history.txt
